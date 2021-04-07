@@ -10,4 +10,4 @@ I am Ola Altiti, a master of computer science. I recieved my bachelor degree in 
 - Self-motivated person
 - Always look to improve my self.
 
-[**GitHub profile**](https://github.com/ola-titi/) </br>
+[**GitHub profile**](https://github.com/ola-titi/) 

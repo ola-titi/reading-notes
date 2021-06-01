@@ -13,4 +13,5 @@ I am Ola Altiti, a master of computer science. I recieved my bachelor degree in 
 |No.|Read| 
 |---|------|
 1|[growth mindset](read1.md)
-2|[]()
+2|[Markdown](read02.md)
+3|[Git](read3.md)
